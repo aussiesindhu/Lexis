@@ -39,7 +39,7 @@ Example for analyzing the word error rate for a question that is recon=gnized di
 LEXUS: "Tall es mantain"
 Siri: "Tallest mountain in US"
 
-The above code returns the error rate as 0.698z
+The above code returns the error rate as 0.698
 
 """
 word_error_rate("who is there".split(), "is there".split())
