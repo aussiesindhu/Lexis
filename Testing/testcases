@@ -1,1 +1,29 @@
+The following are the 20 questions that are used to test LEXIS with 3 other bots namely :
+PandoraBot
+CleverBot
+Aztekium
 
+The same set set of cases are also used to test the speech Recognition model - Sphynx
+
+Also the second approach of Question Answering was testing with this set of test cases.
+
+1. Which is the highest mountain in US?
+2. What is the capital of California?
+3. Which is the longest river that runs through USA?
+4. Name the least populous city in Massachusetts.
+5. How many people live in Washington?
+6. How many rivers does Alaska have?
+7. Tell me what cities are in Texas?
+8. What is the highest point in Delaware?
+9. Which state has a city named Austin?
+10. Which state has the river Red?
+11. Tell me the state that has the lowest  mountain in USA.
+12. Which is the  most populous state in USA?
+13. What is the area of the largest state in California?
+14. Where is Bangalore?
+15. Tell me some facts about Arizona.
+16. What is the area of New York city?
+17. What is the population of the largest state in USA?
+18. Where is river Narmada?
+19. Tell me something about USA
+20. Name the lowest mountain in USA
