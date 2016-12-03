@@ -20,8 +20,8 @@ The state code of state Florida is FL
 ##MountainAndStateDataConversion.py
 Written by Shubham Gupta, to convert Mountain and State Data geoquery into sentences.
 
-##_cities.py
-##_river.py
+##CitiesDataConversion.py
+##RiverDataConversion.py
 Written by Sindhu Mukunda, to convert River and Cities Data geoquery to sentences.
 
 ##GeoQueryToJSON.py	
