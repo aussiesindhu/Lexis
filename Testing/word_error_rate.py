@@ -24,6 +24,13 @@ def word_error_rate(first, second):
                 w[i][j] = (sub+ ins + dele)/(max(len(first),len(second)))
     return w[len(first)][len(second)]
 
+def accuracy(first,second):
+    err=word_error_rate(first,second);
+    return (1-err)*100
+    
+    
+    
+
 #enter the 2 question pattern to compare
 """
 Example for analyzing the word error rate for a question that is recon=gnized differently between
@@ -36,6 +43,7 @@ The above code returns the error rate as 0.698z
 
 """
 word_error_rate("who is there".split(), "is there".split())
+accuracy("who is there".split(), "is there".split())
 
 
 # if __name__ == "__main__":
