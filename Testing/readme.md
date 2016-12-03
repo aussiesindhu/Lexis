@@ -13,5 +13,5 @@ Error rate = (Substitutions + Insertions + Deletions) / Number of words
 This is used for the speech recognition model , where we are trying to calculate the average error rate of a input question recognition.
 Accuracy = 1- word error rate
 
-LEXISandUserConversation
+##LEXISandUserConversation
 This folder contains all the screenshots of Testing that were conducted with random people to test our ChatBot.
